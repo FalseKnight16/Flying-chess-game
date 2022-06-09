@@ -1,0 +1,7 @@
+E:\代码库\飞行棋游戏\飞行棋游戏\飞行棋游戏\bin\Debug\飞行棋游戏.exe.config
+E:\代码库\飞行棋游戏\飞行棋游戏\飞行棋游戏\bin\Debug\飞行棋游戏.exe
+E:\代码库\飞行棋游戏\飞行棋游戏\飞行棋游戏\bin\Debug\飞行棋游戏.pdb
+E:\代码库\飞行棋游戏\飞行棋游戏\飞行棋游戏\obj\Debug\飞行棋游戏.csprojAssemblyReference.cache
+E:\代码库\飞行棋游戏\飞行棋游戏\飞行棋游戏\obj\Debug\飞行棋游戏.csproj.CoreCompileInputs.cache
+E:\代码库\飞行棋游戏\飞行棋游戏\飞行棋游戏\obj\Debug\飞行棋游戏.exe
+E:\代码库\飞行棋游戏\飞行棋游戏\飞行棋游戏\obj\Debug\飞行棋游戏.pdb
